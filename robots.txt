@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://7ad-1.github.io/dallas-emergency-plumbing/sitemap.xml
